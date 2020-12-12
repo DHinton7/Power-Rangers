@@ -5,9 +5,9 @@ Cohort 21 Capstone Project for the Certificate of Data Science at Georgetown Uni
 
 ## Team Power Rangers
 
-Carla Coulson - @couksck <carlacoulson@comcast.net>  
-Roman Villoria - @romanvilloria <romanchest@gmail.com>  
-Dominique Hinton - @Dhinton7 <dominiquealexandriahinton7@gmail.com>  
+Carla Coulson - [@couksck](https://github.com/coulsck) <carlacoulson@comcast.net>  
+Roman Villoria - [@romanvilloria](https://github.com/romanvilloria) <romanchest@gmail.com>  
+Dominique Hinton - [@Dhinton7](https://github.com/DHinton7) <dominiquealexandriahinton7@gmail.com>  
 
 ## Abstract
 
@@ -30,13 +30,13 @@ Buildings are significant energy consumers. In 2019, end-use energy consumption 
 **Hypothesis:**  
 * Can we predict DC large commercial buildings’ energy usage based on their historical electricity and natural gas consumption and weather patterns? 
 
-![Project Architecture]()
+![Project Architecture](https://github.com/georgetown-analytics/Power-Rangers/blob/master/Dont_Look/Project%20Architecture.jpg)
 
 ## Summary of Data Science Pipeline
 
 
 **Ingestion:** Download data from website and upload into database  
-**Wrangling:** Clean data and put into tables within database
+**Wrangling:** Clean data and put into tables within database  
 **Machine Learning:** Use different regression models to find one that best fits the data
 
 ## Data Sources 
